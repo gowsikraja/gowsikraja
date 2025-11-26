@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full Stack Developer | Flutter Enthusiast | AI/Agent Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1A1B27FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Interactive+Interfaces;Ful-stack+Crafted+with+Care;Code.+Design.+Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=1A1B27FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Interactive+Interfaces;Full-stack+Crafted+with+Care;Code.+Design.+Deploy." alt="Typing SVG" />
 </p>
 
 ---
@@ -33,16 +33,16 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/gowsikraja" target="_blank">
+  <a href="https://github.com/gowsikraja" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/gowsikraja" target="_blank">
+  <a href="https://www.linkedin.com/in/gowsikraja" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gowsik.andro@gmail.com">
+  <a href="mailto:gowsik.andro@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gowsik_raja" target="_blank">
+  <a href="https://www.instagram.com/gowsik_raja" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -108,13 +108,13 @@
 
 ---
 
-### 📊 GitHub Insights
+<!-- ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowsikraja&layout=compact&theme=buefy&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwi15&layout=compact&theme=radical"/>
+</div>
 
----
+--- -->
 
 ### 🎯 Fun Facts
 
