@@ -106,13 +106,15 @@
 ---
 
 ### 🏆 Credentials earned
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/gowsikraja/MyWebSite/refs/heads/main/assets/ibm-generative-ai-developer.png" height="100px" width="auto">
 <img src="https://raw.githubusercontent.com/gowsikraja/MyWebSite/refs/heads/main/assets/vertex-ai-and-flutter.png" height="100px" width="auto">
 <img src="https://raw.githubusercontent.com/gowsikraja/MyWebSite/refs/heads/main/assets/ibm-generative-ai-foundations.1.png" height="100px" width="auto">
 <img src="https://raw.githubusercontent.com/gowsikraja/MyWebSite/refs/heads/main/assets/watsonx-challenge.png" height="100px" width="auto">
 <img src="https://raw.githubusercontent.com/gowsikraja/MyWebSite/refs/heads/main/assets/aws-cloud-practitioner.png" height="100px" width="auto">
 <img src="https://raw.githubusercontent.com/gowsikraja/MyWebSite/refs/heads/main/assets/banking-industry-jumpstart.1.png" height="100px" width="auto">
-
+</p>
 ---
 
 <!-- ### 📊 GitHub Insights
